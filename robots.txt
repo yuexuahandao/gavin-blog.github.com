@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://gavin-blog.github.com/sitemap.xml 
